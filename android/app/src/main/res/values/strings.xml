@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">778506880097708</string>
+    <string name="fb_login_protocol_scheme">fb778506880097708</string>
+    <string name="facebook_client_token">1ab9bd0b2d9f4b64617e8cd6d23f85ef</string>
+    <string name="app_name">Vinted clone</string>
+</resources>

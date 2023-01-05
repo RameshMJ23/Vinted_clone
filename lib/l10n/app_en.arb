@@ -1,0 +1,362 @@
+{
+    "home": "Home",
+    "@home": {
+       "description": "Home bottomNav"
+    },
+    "search": "Search",
+    "@search": {
+       "description": "Search bottomNav"
+    },
+    "sell": "Sell",
+    "@sell": {
+       "description": "Sell bottomNav"
+    },
+    "inbox": "Inbox",
+    "@inbox": {
+       "description": "Inbox bottomNav"
+    },
+    "profile": "Profile",
+    "@profile": {
+       "description": "Profile bottomNav"
+    },
+    "recommendedForYou": "Recommended for you",
+    "@recommendedForYou": {
+       "description": "Recommended for you title"
+    },
+    "brandsYouMightLike": "Brands you might like",
+    "@brandsYouMightLike": {
+       "description": "Brands you might like"
+    },
+    "shopByCategory": "Shop by category",
+    "@shopByCategory": {
+       "description": "Shop by category"
+    },
+    "popularItems": "Popular items",
+    "@popularItems": {
+       "description": "Popular items"
+    },
+    "shopByBrand": "Shop by brand",
+    "@shopByBrand": {
+       "description": "Shop by brand"
+    },
+    "suggestedSearches": "Suggested searches",
+    "@suggestedSearches": {
+       "description": "Suggested searches"
+    },
+    "newsFeed": "Newsfeed",
+    "@newsFeed": {
+       "description": "Newsfeed"
+    },
+    "wardrobeSpotlight": "Wardrobe Spotlight",
+    "@wardrobeSpotlight": {
+       "description": "Wardrobe Spotlight"
+    },
+    "seeAll": "See all",
+    "@seeAll": {
+       "description": "See all"
+    },
+    "searchBarHint": "Search for items or members",
+    "@searchBarHint": {
+       "description": "Search for items or members"
+    },
+    "seeAllItems": "See all items",
+    "@seeAllItems": {
+       "description": "See all items"
+    },
+
+
+    "sellAnItem": "Sell an item",
+    "@sellAnItem": {
+       "description": "Sell an item title"
+    },
+    "addUpTo20Photos": "Add up to 20 photos",
+    "@addUpTo20Photos": {
+       "description": "Add up to 20 photos text"
+    },
+    "seePhotoTips": "See photo tips",
+    "@seePhotoTips": {
+       "description": "See photo tips text"
+    },
+    "uploadPhotos": "Upload photos",
+    "@uploadPhotos": {
+       "description": "Upload photos button"
+    },
+    "titleTextField": "Title",
+    "@titleTextField": {
+       "description": "titleTextField"
+    },
+    "titleFieldHint": "e.g. White COS Jumper",
+    "@titleFieldHint": {
+       "description": "titleFieldHint"
+    },
+    "describeItem": "Describe your item",
+    "@describeItem": {
+       "description": "Describe your item field"
+    },
+    "describeItemHint": "e.g. only worn a fw times, true to size",
+    "@describeItemHint": {
+       "description": "describeItemHint"
+    },
+    "categoryTab": "Category",
+    "@categoryTab": {
+       "description": "Category tab"
+    },
+    "brandTab": "Brand",
+    "@brandTab": {
+       "description": "brand tab"
+    },
+    "conditionTab": "Condition",
+    "@conditionTab": {
+       "description": "Condition tab"
+    },
+    "priceTab": "Price",
+    "@priceTab": {
+       "description": "price Tab"
+    },
+    "materialTab": "Material",
+    "@materialTab": {
+       "description": "Material Tab"
+    },
+    "uploadButton": "Upload",
+    "@uploadButton": {
+       "description": "price Tab"
+    },
+    "sellScreenDisclaimer": "A professional seller who fraudulently presents itself as a consumer or a non-professional seller on the Vinted platform may be subject to the fines provided for in Article 13 of the Republic of Lithuania Law on the Prohibition of Unfair Business-to-Consumer Commercial Practices.",
+    "@sellScreenDisclaimer": {
+       "description": "sellScreenDisclaimer"
+    },
+    "saveChangesBeforeClosing": "Save changes before closing?",
+    "@saveChangesBeforeClosing": {
+       "description": "Save changes before closing dialog title"
+    },
+    "save": "Save",
+    "@save": {
+       "description": "Save dialog button"
+    },
+    "discard": "Discard",
+    "@discard": {
+       "description": "Discard dialog button"
+    },
+    "interestedInSwapping": "I'm interested in swapping this",
+    "@interestedInSwapping": {
+       "description": "interestedInSwapping tab"
+    },
+    "sizeTab": "Size",
+    "@sizeTab": {
+       "description": "Size tab"
+    },
+    "colorTab": "Colour",
+    "@colorTab": {
+       "description": "Colour tab"
+    },
+
+
+
+    "messages": "Messages",
+    "@messages": {
+       "description": "Messages tab"
+    },
+    "notifications": "Notifications",
+    "@notification": {
+       "description": "Notification tab"
+    },
+    "daysAgo": "{day} days ago",
+    "@daysAgo": {
+       "description": "days ago trailing",
+       "placeholders": {
+          "day": {
+            "type": "String"
+          }
+       }
+    },
+    "items": "items",
+    "@items": {
+       "description": "items trailing"
+    },
+    "makeAnOffer": "Make an offer",
+    "@makeAnOffer": {
+       "description": "Make an offer button"
+    },
+    "buy": "Buy",
+    "@buy": {
+       "description": "Buy button"
+    },
+    "introText": "Hey! I'm",
+    "@introText": {
+       "description": "introText"
+    },
+    "reviews": "reviews",
+    "@reviews": {
+       "description": "reviews"
+    },
+    "noReview": "no review",
+    "@noReview": {
+       "description": "noReview"
+    },
+    "distance": "Distance",
+    "@distance": {
+       "description": "Distance"
+    },
+    "lastSeen": "Last seen",
+    "@lastSeen": {
+       "description": "Last seen"
+    },
+    "youOffered": "You've offered",
+    "@youOffered": {
+       "description": "You've offered"
+    },
+    "declined": "Declined",
+    "@declined": {
+       "description": "Declined"
+    },
+    "writeMessageHint": "Write a message here",
+    "@writeMessageHint": {
+       "description": "Write a message here"
+    },
+    "send": "Send",
+    "@send": {
+       "description": "send button"
+    },
+    "detailsScreenTitle": "Details",
+    "@detailsScreenTitle": {
+       "description": "Details screen title"
+    },
+    "addMoreItems": "Add more items",
+    "@addMoreItems": {
+       "description": "Add more items button"
+    },
+    "help": "Help",
+    "@help": {
+       "description": "Help option"
+    },
+    "block": "Block",
+    "@block": {
+       "description": "Block option"
+    },
+    "report": "Report",
+    "@report": {
+       "description": "report option"
+    },
+    "deleteConversation": "Delete conversation",
+    "@deleteConversation": {
+       "description": "Delete conversation option"
+    },
+
+
+    "buildABuildScreenTitle": "Build a bundle",
+    "@buildABuildScreenTitle": {
+       "description": "Build a bundle title"
+    },
+    "update": "UPDATE",
+    "@update": {
+       "description": "update button"
+    },
+    "createABundleExp": "Create a bundle from items in",
+    "@createABundleExp": {
+       "description": "create A Bundle Explanation"
+    },
+    "wardrobe": "Wardrobe",
+    "@wardrobe": {
+       "description": "wardrobe ending"
+    },
+    "policyBuildABundle": "If you want to learn more, please read our",
+    "@policyBuildABundle": {
+       "description": "policy disclaimer at Build a Bundle screen"
+    },
+    "policyBuildABundleSplText": "bundle policy",
+    "@policyBuildABundleSplText": {
+       "description": "Hyper link text at policy disclaimer"
+    },
+    "addButton": "Add",
+    "@addButton": {
+       "description": "add Button"
+    },
+    "removeButton": "Remove",
+    "@removeButton": {
+       "description": "remove Button"
+    },
+    "viewMyProfile": "View my profile",
+    "@viewMyProfile": {
+       "description": "view My Profile subtitle"
+    },
+    "yourGuideToVinted": "Your guide to Vinted",
+    "@yourGuideToVinted": {
+       "description": "Your guide to Vinted profile option"
+    },
+    "favouriteItems": "Favourite items",
+    "@favouriteItems": {
+       "description": "Favourite items profile option"
+    },
+    "personalisation": "Personalisation",
+    "@personalisation": {
+       "description": "Personalisation profile option"
+    },
+    "balanceOption": "Balance",
+    "@balanceOption": {
+       "description": "Balance profile option"
+    },
+    "myOrders": "My orders",
+    "@myOrders": {
+       "description": "My orders profile option"
+    },
+    "bundleDiscounts": "Bundle discounts",
+    "@bundleDiscounts": {
+       "description": "Bundle discounts profile option"
+    },
+    "donations": "Donations",
+    "@donations": {
+       "description": "Donations profile option"
+    },
+    "forum": "Forum",
+    "@forum": {
+       "description": "Forum profile option"
+    },
+    "holidayMode": "Holiday mode",
+    "@holidayMode": {
+       "description": "Holiday mode profile option"
+    },
+    "settings": "Settings",
+    "@settings": {
+       "description": "Settings profile option"
+    },
+    "cookieSettings": "Cookie settings",
+    "@cookieSettings": {
+       "description": "Cookie settings profile option"
+    },
+    "aboutVinted": "About Vinted",
+    "@aboutVinted": {
+       "description": "About Vinted profile option"
+    },
+    "legalInformation": "Legal information",
+    "@legalInformation": {
+       "description": "Legal information profile option"
+    },
+    "ourPlatform": "Our platform",
+    "@ourPlatform": {
+       "description": "Our platform profile option"
+    },
+    "helpCenter": "Help Center",
+    "@helpCenter": {
+       "description": "helpCenter profile option"
+    },
+    "sendYourFeedback": "Send your feedback",
+    "@sendYourFeedback": {
+       "description": "Send your feedback profile option"
+    },
+    "privacyPolicy": "Privacy Policy",
+    "@privacyPolicy": {
+       "description": "Privacy Policy bottom"
+    },
+    "termsAndCondition": "Terms & Condition",
+    "@termsAndCondition": {
+       "description": "Terms & Condition bottom"
+    },
+    "on": "on",
+    "@on": {
+       "description": "on status"
+    },
+    "off": "off",
+    "@off": {
+       "description": "off status"
+    }
+}
